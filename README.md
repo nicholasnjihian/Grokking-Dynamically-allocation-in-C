@@ -1,1 +1,1 @@
-# Grokking-Dynamically-allocation-in-C
+# Grokking Dynamic Memory Allocation in C
